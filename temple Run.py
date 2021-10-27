@@ -25,5 +25,5 @@ while True:
     
 
     if data.decode().strip() == "DOWN":
-        keyboard.press("w")
-        keyboard.release("w")    
+        keyboard.press("s")
+        keyboard.release("s")    
